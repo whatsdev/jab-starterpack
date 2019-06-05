@@ -1,5 +1,5 @@
 {
-  "name": "starterpack",
+  "name": "weather-v1",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -32,5 +32,7 @@
     "webpack-cli": "^3.0.8",
     "webpack-dev-server": "^3.1.4"
   },
-  "dependencies": {}
+  "dependencies": {
+    "fsevents": "^1.2.4"
+  }
 }
